@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "alexander Dreyer"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "..."
   location         : "Oldenburg"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -97,12 +97,13 @@ author:
   facebook         :
   foursquare       :
   github           : "amdreyer"
+  gitlab           : "https://gitlab.uni-oldenburg.de/soli0319"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/alexander-d-098069197/"
+  linkedin         : "/alexander-d-098069197/"
   orcid            : "https://orcid.org/0000-0001-5291-1621"
   pinterest        :
   soundcloud       :
